@@ -8,9 +8,9 @@ clock_font_color=#000000
 city_font_size=20
 city_font_color=#666666
 # Title
-title_font_size=48
+title_font_size=80
 title_font_color=#000000
 # Background
 background_color=#f8f8f8
 # Shadow effect (true or false)
-shadow_effect=true
+shadow_effect=false
